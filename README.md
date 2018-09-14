@@ -1,2 +1,2 @@
 # My Machine Learning stuff ....
-# Tensor == multi dimensional matrices
+ Tensor == multi dimensional matrices
